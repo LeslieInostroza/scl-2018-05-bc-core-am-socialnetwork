@@ -19,7 +19,7 @@ const processPostInput = () => {
         }).catch(() => { });
       });
     }
-    postInput.value = '';
+    postInput.value = ''; // limpiar
   }
 };
 
