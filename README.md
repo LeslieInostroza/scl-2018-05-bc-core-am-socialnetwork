@@ -1,4 +1,4 @@
-# ConectApp
+# RED SOCIAL: ConectApp
 
 ![replica](public/img/img003.png)
 
