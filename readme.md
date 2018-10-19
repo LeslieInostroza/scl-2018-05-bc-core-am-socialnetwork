@@ -4,13 +4,9 @@
 
 
 ConectApp es una red social a nivel de curso, para agilizar el proceso de comunicación entre apoderados y profesores.
-
 ¿Por qué es necesario ésta red Social?
-
 Es sabido que actualmente, uno de los medios más eficaces, para lograr comunicación entre los apoderados de un mismo curso y profesores, es el grupos de wsp, pero...¿no son bien molestas todas las notificaciones a altas horas de la noche?, ¿llegar tarde a la conversación y estar perdido de todos los acuerdo?. Es por ello que  ha llegado Conectapp, que es una forma fácil de comunicación entre profesor/apoderador, de manera simple, intuitiva y directa.
-
 ¿qué nos diferencia del resto?
-
 Con conectapp, sólo podrás encontrar temas relacionados con la convivencia escolar,teniendo un amplio panorama de :
 -Reuniones de apoderados
 -Actividades
@@ -33,9 +29,7 @@ Generar una plataforma mobile, que facilite la comunicación entre apoderados y 
 ## Medios para la fabricación de la plataforma
 
 1.- Creación de un HTML, que contenga las diferentes pantallas a mostrar,(mediante un archivo .js, utilizamos una funcion para crear los display block y none, que se encargan de mostrar y ocultar las paginas seleccionadas).
-
 2.- Creación del chat, mediante la creacion de funciones en Js, muestran un listado de contactos, en donde se pueden enviar mensajes privados, como tambien sera posible, ver una pequeña notificacion(cambiara de color el usuario que envio dicho mensaje).
-
 3.- Creación de tablero(muro), mediante la creacion de funciones en Js, Podran publicar, más de un usuario a la vez, acceder a me gusta, eliminar publicaciones y subir imagenes.
     
 
@@ -68,7 +62,6 @@ El scketch se realizó en base a los datos proporcionados por los diferentes usu
 Para realizar las visualizaciones de nuestro proyecto, en formato de alta fidelidad, ocupamos 2 programas:
 Atomic.io: para hacer el responsive para formato de celular.
 Ai: para generar el formato web.
- 
 Ambos protoripos fueron evaluados con apoderados y profesores, para asi validar nuestra hipotesis, colores e interfaz.
 
 
