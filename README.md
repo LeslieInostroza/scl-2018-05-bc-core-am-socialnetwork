@@ -1,5 +1,7 @@
 # ConectApp
 
+![replica](public/img/img003.png)
+
 ### Analisis Proyecto
 
 ConectApp es una red social a nivel de curso, para agilizar el proceso de comunicación entre apoderados y profesores.
