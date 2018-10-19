@@ -6,37 +6,37 @@
 ConectApp es una red social a nivel de curso, para agilizar el proceso de comunicación entre apoderados y profesores.
 
 ¿Por qué es necesario ésta red Social?
-	
- Es sabido que actualmente, uno de los medios más eficaces, para lograr comunicación entre los apoderados de un mismo curso y profesores, es el grupos de wsp, pero...¿no son bien molestas todas las notificaciones a altas horas de la noche?, ¿llegar tarde a la conversación y estar perdido de todos los acuerdo?. Es por ello que  ha llegado Conectapp, que es una forma fácil de comunicación entre profesor/apoderador, de manera simple, intuitiva y directa.
 
- ¿qué nos diferencia del resto?
+Es sabido que actualmente, uno de los medios más eficaces, para lograr comunicación entre los apoderados de un mismo curso y profesores, es el grupos de wsp, pero...¿no son bien molestas todas las notificaciones a altas horas de la noche?, ¿llegar tarde a la conversación y estar perdido de todos los acuerdo?. Es por ello que  ha llegado Conectapp, que es una forma fácil de comunicación entre profesor/apoderador, de manera simple, intuitiva y directa.
 
- Con conectapp, sólo podrás encontrar temas relacionados con la convivencia escolar,teniendo un amplio panorama de :
- -Reuniones de apoderados
- -Actividades
- -Salidas a terreno
- -Calendario de actividades
- -chat y mucho más.  
- Proyectando de ésta manera una red social al servicio de la comunidad escolar.
- Para más información al respecto, puede descargar directamente nuestra aplicacion, en la página web de GitHub: https://github.com/nahytar/scl-2018-05-bc-core-am-socialnetwork.
- App: https://red-social-lab-2018.firebaseapp.com/#.
+¿qué nos diferencia del resto?
+
+Con conectapp, sólo podrás encontrar temas relacionados con la convivencia escolar,teniendo un amplio panorama de :
+-Reuniones de apoderados
+-Actividades
+-Salidas a terreno
+-Calendario de actividades
+-chat y mucho más.  
+Proyectando de ésta manera una red social al servicio de la comunidad escolar.
+Para más información al respecto, puede descargar directamente nuestra aplicacion, en la página web de GitHub: https://github.com/nahytar/scl-2018-05-bc-core-am-socialnetwork.
+App: https://red-social-lab-2018.firebaseapp.com/#.
 
 
- ## Hipotesis
+## Hipotesis
 
- Nos dimos cuenta, que los apoderados poseen un sistema de comunicación externo que no satisface todas sus necesidades, a la hora de estar en conocimiento sobre las actividades del curso y/o del colegio.
+Nos dimos cuenta, que los apoderados poseen un sistema de comunicación externo que no satisface todas sus necesidades, a la hora de estar en conocimiento sobre las actividades del curso y/o del colegio.
 
 ##objetivo general
 
- Generar una plataforma mobile, que facilite la comunicación entre apoderados y profesor, vincular paginas de actividades con botones de contenidos, seleccionar dichos botones de contenidos, y que nos muestre la página estipulada, visualizando las diferentes plataformas desde un mismo HTML.
+Generar una plataforma mobile, que facilite la comunicación entre apoderados y profesor, vincular paginas de actividades con botones de contenidos, seleccionar dichos botones de contenidos, y que nos muestre la página estipulada, visualizando las diferentes plataformas desde un mismo HTML.
 
 ## Medios para la fabricación de la plataforma
 
- 1.- Creación de un HTML, que contenga las diferentes pantallas a mostrar,(mediante un archivo .js, utilizamos una funcion para crear los display block y none, que se encargan de mostrar y ocultar las paginas seleccionadas).
+1.- Creación de un HTML, que contenga las diferentes pantallas a mostrar,(mediante un archivo .js, utilizamos una funcion para crear los display block y none, que se encargan de mostrar y ocultar las paginas seleccionadas).
 
- 2.- Creación del chat, mediante la creacion de funciones en Js, muestran un listado de contactos, en donde se pueden enviar mensajes privados, como tambien sera posible, ver una pequeña notificacion(cambiara de color el usuario que envio dicho mensaje).
+2.- Creación del chat, mediante la creacion de funciones en Js, muestran un listado de contactos, en donde se pueden enviar mensajes privados, como tambien sera posible, ver una pequeña notificacion(cambiara de color el usuario que envio dicho mensaje).
 
- 3.- Creación de tablero(muro), mediante la creacion de funciones en Js, Podran publicar, más de un usuario a la vez, acceder a me gusta, eliminar publicaciones y subir imagenes.
+3.- Creación de tablero(muro), mediante la creacion de funciones en Js, Podran publicar, más de un usuario a la vez, acceder a me gusta, eliminar publicaciones y subir imagenes.
     
 
 ### User Experience Design
@@ -65,11 +65,11 @@ El scketch se realizó en base a los datos proporcionados por los diferentes usu
 
 #### Diseño de la Interfaz de Usuario (prototipo de alta fidelidad)
 
- Para realizar las visualizaciones de nuestro proyecto, en formato de alta fidelidad, ocupamos 2 programas:
- Atomic.io: para hacer el responsive para formato de celular.
- Ai: para generar el formato web.
+Para realizar las visualizaciones de nuestro proyecto, en formato de alta fidelidad, ocupamos 2 programas:
+Atomic.io: para hacer el responsive para formato de celular.
+Ai: para generar el formato web.
  
- Ambos protoripos fueron evaluados con apoderados y profesores, para asi validar nuestra hipotesis, colores e interfaz.
+Ambos protoripos fueron evaluados con apoderados y profesores, para asi validar nuestra hipotesis, colores e interfaz.
 
 
 ## Implementación de la Interfaz de Usuario (HTML/CSS/JS)
@@ -80,4 +80,6 @@ El scketch se realizó en base a los datos proporcionados por los diferentes usu
 4. Permitir al usuario acceder a cada una de las pantallas informativas, poder establecer comunicación.
 5. desplegar acciones mediante boton de hamburguesas.
 6. Visualizarse sin problemas desde distintos tamaños de pantallas: móviles, tablets y desktops.
-(datos de UX, en carpeta adjunta).
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
